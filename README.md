@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tareq Mahmud</h1>
+<h1 align="center">[Hi 👋, I'm Tareq Mahmud](https://i.ibb.co/whMTkKC/github-header-image.png)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudtareq&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudtareq" /> </p>
