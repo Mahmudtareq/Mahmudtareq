@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tareq Mahmud</h1>
-![I am GitHub Readme Generator's creator](https://i.ibb.co/whMTkKC/github-header-image.png)
+<!-- ![I am GitHub Readme Generator's creator](https://i.ibb.co/whMTkKC/github-header-image.png) -->
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
